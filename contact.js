@@ -1,0 +1,1 @@
+window.location.href = 'https://docs.google.com/forms/d/e/1FAIpQLSduVQuOWKETGVxwNZCBNIxOUKBcVs5mhU5Z00JsvuPGiWQETA/viewform?usp=sf_link';
